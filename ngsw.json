@@ -1,0 +1,83 @@
+{
+  "configVersion": 1,
+  "timestamp": 1643256253603,
+  "index": "ibf_module3_day1/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "ibf_module3_day1/favicon.ico",
+        "ibf_module3_day1/index.html",
+        "ibf_module3_day1/main.dc0d39abcd90b093.js",
+        "ibf_module3_day1/manifest.webmanifest",
+        "ibf_module3_day1/polyfills.1704a7946a8cb6b6.js",
+        "ibf_module3_day1/runtime.b10484188b67e61a.js",
+        "ibf_module3_day1/styles.ef46db3751d8e999.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "cacheQueryOptions": {
+        "ignoreVary": true
+      },
+      "urls": [
+        "ibf_module3_day1/assets/Kiruna_01.jpg",
+        "ibf_module3_day1/assets/icons/icon-128x128.png",
+        "ibf_module3_day1/assets/icons/icon-144x144.png",
+        "ibf_module3_day1/assets/icons/icon-152x152.png",
+        "ibf_module3_day1/assets/icons/icon-192x192.png",
+        "ibf_module3_day1/assets/icons/icon-384x384.png",
+        "ibf_module3_day1/assets/icons/icon-512x512.png",
+        "ibf_module3_day1/assets/icons/icon-72x72.png",
+        "ibf_module3_day1/assets/icons/icon-96x96.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "ibf_module3_day1/assets/Kiruna_01.jpg": "c407017ad6dd3bf35786e4c493cd93b96bb106d2",
+    "ibf_module3_day1/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "ibf_module3_day1/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "ibf_module3_day1/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "ibf_module3_day1/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "ibf_module3_day1/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "ibf_module3_day1/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "ibf_module3_day1/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "ibf_module3_day1/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "ibf_module3_day1/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "ibf_module3_day1/index.html": "db3ce4f25b11dfd6fc092e8ea5128ffdd74dbc4f",
+    "ibf_module3_day1/main.dc0d39abcd90b093.js": "5d51cf926114974ca0164f7cc41910fb1ab3ca41",
+    "ibf_module3_day1/manifest.webmanifest": "82de97d74ce54462c47347615e243cda73ad95b4",
+    "ibf_module3_day1/polyfills.1704a7946a8cb6b6.js": "81014e9698b1a851ab1155154da7a32fce150aa3",
+    "ibf_module3_day1/runtime.b10484188b67e61a.js": "4150adcd332e3c0e65de3f79c218934c9f0cdc62",
+    "ibf_module3_day1/styles.ef46db3751d8e999.css": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ],
+  "navigationRequestStrategy": "performance"
+}
